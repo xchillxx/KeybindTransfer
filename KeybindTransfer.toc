@@ -1,0 +1,13 @@
+## Interface: 16001, 120105, 11509, 20506, 38001, 50504
+## Title: KeybindTransfer
+## Title-deDE: KeybindTransfer (Tastenbelegung kopieren)
+## Notes: Copy only your keybinds between WoW Forever, Retail and Classic with one text string. No spells, no macros, no action bar layout.
+## Notes-deDE: Kopiert nur deine Tastenbelegung zwischen WoW Forever, Retail und Classic per Textstring. Keine Zauber, keine Makros, kein Leisten-Layout.
+## Author: xchillxx
+## Version: @project-version@
+## SavedVariables: KeybindTransferDB
+## IconTexture: Interface\Icons\INV_Misc_Key_03
+## Category: Interface Enhancements
+
+Core.lua
+KeybindTransfer.lua

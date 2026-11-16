@@ -1,0 +1,11 @@
+package-as: KeybindTransfer
+
+ignore:
+  - tests
+  - .github
+  - README.md
+  - CHANGELOG.md
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
