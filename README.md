@@ -28,6 +28,10 @@ Die Belegung ist an Befehle wie `ACTIONBUTTON1` gebunden, nicht an Zauber. Hast 
 
 Eine `.toc` für alle Versionen (Interface 16001 Forever, Retail, Classic Era, TBC Anniversary, Wrath, MoP Classic). Die Interface-Nummern müssen bei jedem Patch geprüft werden.
 
+## Quellcode und Fehler melden
+
+Quellcode, Releases und Fehlermeldungen: https://github.com/xchillxx/KeybindTransfer (Fehler bitte unter [Issues](https://github.com/xchillxx/KeybindTransfer/issues) melden).
+
 ---
 
 # KeybindTransfer (English)
@@ -41,3 +45,5 @@ Bindings belong to commands such as `ACTIONBUTTON1`, not to spells. If key Q is 
 3. Click **Apply**. A backup is created automatically, **Undo** restores it.
 
 Commands unknown to the target client are skipped and listed. Apply and Undo are blocked in combat.
+
+Source code, releases and bug reports: https://github.com/xchillxx/KeybindTransfer ([Issues](https://github.com/xchillxx/KeybindTransfer/issues)).
